@@ -1,0 +1,5 @@
+- .. use fetch to get employees and customers
+	- >> https://raw.githubusercontent.com/graphql-compose/graphql-compose-examples/master/examples/northwind/data/json/employees.json
+	- >> https://raw.githubusercontent.com/graphql-compose/graphql-compose-examples/master/examples/northwind/data/json/customers.json
+	
+	 
