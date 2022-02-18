@@ -1,5 +1,6 @@
-- .. use fetch to get employees and customers
+- x use fetch to get employees 
 	- >> https://raw.githubusercontent.com/graphql-compose/graphql-compose-examples/master/examples/northwind/data/json/employees.json
+- ,, use axios to get customers 
 	- >> https://raw.githubusercontent.com/graphql-compose/graphql-compose-examples/master/examples/northwind/data/json/customers.json
-	
-	 
+	- x install axios
+	- .. set up
